@@ -23,7 +23,7 @@ export class HomeComponent implements OnInit {
 
   firstClick()
   {
-    //console.log('click me')
+    console.log('click me')
     //this.h1Style = true;
     
   }
